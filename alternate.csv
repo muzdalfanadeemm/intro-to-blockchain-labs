@@ -1,0 +1,5 @@
+seq,event,approved_by
+1,Issue certificate C-001,Registrar
+2,Issue certificate C-002,Registrar
+3,Revoke certificate C-001,Registrar
+4,Issue certificate C-003,Registrar
